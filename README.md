@@ -100,21 +100,10 @@ but also gives you various benefits which can improve the quality of your life. 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amit17133129&layout=compact&theme=radical" />
 </a> -->
 
-###
 
-<b>My GitHub contributions as a Game of Life</b>
-
-[![GitHub Game of Life](https://github4life.herokuapp.com/PruthviBelgaonkar.gif?z=6)](https://github4life.herokuapp.com/PruthviBelgaonkar)
-
-##
 
 
 <!--BLOG Process-->
-## Updates 🤓
-<b>
-<table><tr><td valign="top" width="33%">
-
-### [DEVOPS]
 <!-- recent_releases starts -->
 
 <!-- [Launching-A-WordPress-Application-With-MYSQL-Database-in-K8S-Cluster-On-AWS-Using-Ansible-](https://github.com/amit17133129/Launching-A-WordPress-Application-With-MYSQL-Database-in-K8S-Cluster-On-AWS-Using-Ansible-)
@@ -193,16 +182,13 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 <div align="center">
-<a href="[https://github.com/PruthviBelgaonkar]" target="_blank">
+<a href="https://github.com/PruthviBelgaonkar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://m.facebook.com/profile.php?lst=100051903403433%3A100051903403433%3A1605120679" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/pruthvi-belgaonkar-bb058a208/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="[https://www.instagram.com/pruthvi_202001]/?hl=en" target="_blank">
+<a href="https://www.instagram.com/pruthvi_202001/?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
