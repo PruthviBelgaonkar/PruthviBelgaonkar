@@ -193,16 +193,16 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 <div align="center">
-<a href="https://github.com/amit17133129" target="_blank">
+<a href="[https://github.com/PruthviBelgaonkar]" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://m.facebook.com/profile.php?lst=100051903403433%3A100051903403433%3A1605120679" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/amit-sharma-35439016a/" target="_blank">
+<a href="https://www.linkedin.com/in/pruthvi-belgaonkar-bb058a208/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/the_interstellar_guy/?hl=en" target="_blank">
+<a href="[https://www.instagram.com/pruthvi_202001]/?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
