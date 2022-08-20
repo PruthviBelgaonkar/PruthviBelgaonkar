@@ -71,16 +71,20 @@
 
 
 
-<p align="center">
-  <img src="https://github.com/amit17133129/amit17133129/blob/main/MySkills.gif?raw=true"/>
-</p>
- <!--My Hobbies-->
- 
  <div>
  <p>
   
 </p>
  </div>
+
+
+
+<p align="center">
+  <img src="https://github.com/amit17133129/amit17133129/blob/main/MySkills.gif?raw=true"/>
+</p>
+ <!--My Hobbies-->
+ 
+
  
 
 ## My Hobbies ✍
