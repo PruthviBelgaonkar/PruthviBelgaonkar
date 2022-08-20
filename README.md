@@ -20,7 +20,7 @@
  
  
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/PruthviBelgaonkar)
-[![Linkedin Badge](https://img.shields.io/badge/-Pruthvi%20Belgaonkar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pruthvi-belgaonkar-bb058a208/)](https://www.linkedin.com/in/pruthvi-belgaonkar-bb058a208//) [![Twitter Badge](http://img.shields.io/badge/-@Pruthvi Belgaonkar-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/PruthviBelgaon1)](https://twitter.com/) [![GitHub followers](https://img.shields.io/github/followers/hac?label=Follow&style=social)](https://github.com/PruthviBelgaonkar)
+[![Linkedin Badge](https://img.shields.io/badge/-Pruthvi%20Belgaonkar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pruthvi-belgaonkar-bb058a208/)](https://www.linkedin.com/in/pruthvi-belgaonkar-bb058a208//) <!--[![Twitter Badge](http://img.shields.io/badge/-@Pruthvi Belgaonkar-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/PruthviBelgaon1)](https://twitter.com/)--> [![GitHub followers](https://img.shields.io/github/followers/hac?label=Follow&style=social)](https://github.com/PruthviBelgaonkar)
 [![Instagram Badge](https://img.shields.io/badge/-AmitSharma-blue?style=social&logo=Instagram&link=https://www.instagram.com/the_interstellar_guy/?hl=en/)](https://www.instagram.com/the_interstellar_guy/?hl=en/) 
 
 
