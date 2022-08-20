@@ -68,6 +68,9 @@
  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
  [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
  [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
+
+
+
 <p align="center">
   <img src="https://github.com/amit17133129/amit17133129/blob/main/MySkills.gif?raw=true"/>
 </p>
@@ -77,9 +80,8 @@
 
 ## My Hobbies ✍
 
-<img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='120"'>
  
-Having a hobby is a <b>great</b> <img align='right' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/hobbies.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
+Having a hobby is a <b>great</b><b>thing</b> for each and everyone because it not only entertains you,
 but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
 ##
 
