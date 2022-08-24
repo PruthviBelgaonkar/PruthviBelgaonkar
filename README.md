@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @PruthviBelgaonkar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 ## Hi {𝚌𝚘𝚍𝚎𝚛𝚜}! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Pruthvi 👨‍🎓
 
 <!--Header-->
+
+<br>
+🔭 I’m currently working on **Insurance Premium Prediction**
+
+- 🌱 I’m currently learning **MLops**
+
+- 👯 I’m looking to collaborate on **ML Data Science Projects**
+
+- 📫 How to reach me **pruthvibelgaonkar469@gmail.com**
+
+<br>
 
 <p align="center">
   <img src="https://www.blazeclan.com/wp-content/uploads/2021/08/MLOps-2.jpg" width="1000" height="450" />
