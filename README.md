@@ -12,6 +12,9 @@
   <img src="https://www.blazeclan.com/wp-content/uploads/2021/08/MLOps-2.jpg" width="1000" height="450" />
 </p>
 
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PruthviBelgaonkar&label=Profile%20views&color=0e75b6&style=flat" alt="PruthviBelgaonkar" /> </p>
+
 ## Connect Me At Below
   <!--social media icon-->
 <div align="center">
