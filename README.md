@@ -91,6 +91,13 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 
+<br>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PruthviBelgaonkar&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook)
+![Pruthvi's github stats](https://github-readme-stats.vercel.app/api/?username=PruthviBelgaonkar&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
+<br>
+
+
 <!--Github Progess bar-->
 
 ## Quick Overview 📝
