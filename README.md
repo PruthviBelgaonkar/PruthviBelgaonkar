@@ -109,7 +109,10 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ## Quick Overview 📝
 ![Pruthvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PruthviBelgaonkar&show_icons=true&theme=radical)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=PruthviBelgaonkar&theme=dark&hide_border=false)
+<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/username=PruthviBelgaonkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
