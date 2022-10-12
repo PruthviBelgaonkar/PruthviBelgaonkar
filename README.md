@@ -9,7 +9,8 @@
 <!--Header-->
 
 <br>
-🔭 I’m currently working on **Insurance Premium Prediction**
+  
+- 🔭 I’m currently working on **DEEP LEARNING MODEL**
 
 - 🌱 I’m currently learning **MLops**
 
@@ -99,6 +100,11 @@ Having a hobby is a <b>great</b><b>thing</b> for each and everyone because it no
 but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
 ##
 
+<img src="https://activity-graph.herokuapp.com/graph?username=PruthviBelgaonkar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+
+
+
+</br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PruthviBelgaonkar&hide_border=true)](https://github.com/PruthviBelgaonkar/github-readme-stats)
 
 ##
 
@@ -130,9 +136,6 @@ but also gives you various benefits which can improve the quality of your life. 
 <a href="https://www.instagram.com/pruthvi_202001/?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-
-
-
 </div>  
   
 
