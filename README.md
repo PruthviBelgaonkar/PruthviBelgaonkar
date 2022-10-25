@@ -122,6 +122,11 @@ but also gives you various benefits which can improve the quality of your life. 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
+## METRICS
+
+<p align="centre"><img src="https://metrics.lecoq.io/PruthviBelgaonkar" alt="Github Metrics"></p>
+
+
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919112080469) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
