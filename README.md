@@ -10,11 +10,11 @@
 
 <br>
   
-- 🔭 I’m currently working on **DEEP LEARNING MODEL**
+- 🔭 I’m currently working as **OPERATIONS ENGINEER AT KONE ELEVATORS**
 
-- 🌱 I’m currently learning **MLops**
+- 🌱 I’m currently learning **KUBERBETES**
 
-- 👯 I’m looking to collaborate on **ML Data Science Projects**
+- 👯 I’m looking to collaborate on **AWS PROJECTS**
 
 - 📫 How to reach me **pruthvibelgaonkar469@gmail.com**
 
@@ -55,7 +55,7 @@
 
 ## About Me ✍
  
- I m <b> Pruthvi Belgaonkar</b>, a pursuing <b>Computer Science Engineer</b> a passionate self-taught. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+ I m <b> Pruthvi Belgaonkar</b>,a Operations Engineer at KONE ELEVATORS INDIA<b></b> a passionate self-taught. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I always passionate about understanding the core concepts behind different popular Technological Fields. 
 
 
 </div>
