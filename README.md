@@ -12,7 +12,7 @@
   
 - 🔭 I’m currently working as **OPERATIONS ENGINEER AT KONE ELEVATORS**
 
-- 🌱 I’m currently learning **KUBERBETES**
+- 🌱 I’m currently learning **KUBERNETES**
 
 - 👯 I’m looking to collaborate on **AWS PROJECTS**
 
